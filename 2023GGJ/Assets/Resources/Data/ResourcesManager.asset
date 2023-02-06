@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3271744b858d313468a7a67c2ea0f551, type: 3}
+  m_Name: ResourcesManager
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  BallPrefab: {fileID: 279067127620931891, guid: 5e5d94be58a6f804da290643f044c9db, type: 3}
+  Click: {fileID: 431896269256708181, guid: aeac985f7182ad74198761db670f3330, type: 3}
+  Merge: {fileID: 431896269256708181, guid: d968fb6f315b38a42a2b01779bc41b36, type: 3}
+  FireKill: {fileID: 690135949386084512, guid: 78e16a4896027d448a7322106e670646, type: 3}
+  WaterKill: {fileID: 690135949386084512, guid: bc91b2a6f1a54d74fbb83f7202e807e9, type: 3}
+  GrassKill: {fileID: 690135949386084512, guid: 88a5803d4ababb9429860592c59654f8, type: 3}
+  MergeAudio:
+  - {fileID: 8300000, guid: 1123fdb8d142dab488ee785975d453fe, type: 3}
+  - {fileID: 8300000, guid: 299910bc3f59e2848a07cfa059d240f0, type: 3}
+  - {fileID: 8300000, guid: 698bf3fa02924694e9a25d57a7ab4233, type: 3}
+  - {fileID: 8300000, guid: aabf72707aa55104c829e35fbd370a06, type: 3}
+  - {fileID: 8300000, guid: c0c49ae2b54321f4f8fed7caad5058dd, type: 3}
+  - {fileID: 8300000, guid: b6ba71696dcd66347acb86c97aa0004c, type: 3}
+  KillAudio:
+  - {fileID: 8300000, guid: f25a2cd839610b24fbc83ae954a90d67, type: 3}
+  - {fileID: 8300000, guid: 854862325aa35f341925345019ee4c0b, type: 3}
+  - {fileID: 8300000, guid: 483ccad5cff6e9448b1a002236a4229f, type: 3}
+  - {fileID: 8300000, guid: 9c737a7f8daae6c47bcc99bc2a44a020, type: 3}
+  - {fileID: 8300000, guid: daf5f9f61cbef15449e7b414275bcd68, type: 3}
+  - {fileID: 8300000, guid: fcaf18033336ecd43921c506a1daae2d, type: 3}
+  - {fileID: 8300000, guid: 88cd889b2fc5a5a4a9436cab27f2b0d3, type: 3}
+  SwithAudio:
+  - {fileID: 8300000, guid: 4ebf9085ea67089488c831c8e4c96ee0, type: 3}
+  - {fileID: 8300000, guid: 81c55110c859fdb41ac7036800d954e1, type: 3}
+  - {fileID: 8300000, guid: c29448760a59b6740a1a317a07e6ef30, type: 3}
+  - {fileID: 8300000, guid: a8cd93c9cd723de429b580ea7a218ef8, type: 3}
+  - {fileID: 8300000, guid: 80b79dae4b1bc5446ae0dcbc2f17af2b, type: 3}
+  - {fileID: 8300000, guid: 57c58e5f368b8e140ab0e1dd958fb2db, type: 3}
+  - {fileID: 8300000, guid: f69fa6d1b03eb9549a09c727ec244d50, type: 3}
+  - {fileID: 8300000, guid: 69ed5459391a04b40b60d5b16172fcda, type: 3}
+  - {fileID: 8300000, guid: e57047b74c3750545b93b8a4826aac65, type: 3}
+  - {fileID: 8300000, guid: c6ff473771b2a84439343461a6d56e1a, type: 3}
+  - {fileID: 8300000, guid: e3b3cd7209878054d8ed00d92fb2bf38, type: 3}
+  - {fileID: 8300000, guid: 26743ec5509626c43b2aef63e4d52f28, type: 3}
+  MergeNumber: {fileID: 4454059556416221436, guid: 3a70a710c4065a341a01cbbd5194b8cb, type: 3}
+  KillNumber: {fileID: 6248195612035301467, guid: 3f84583e5e61ae64190dde91cb2e6f2e, type: 3}

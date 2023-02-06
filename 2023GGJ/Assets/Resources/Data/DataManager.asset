@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb195d387d338b4ba1dda629f4ea07a, type: 3}
+  m_Name: DataManager
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  JointDistance: 1.2
+  JointRatio: 1
+  JointFrequency: 15
+  MaxVelocity: 1000
+  MaxDrag: 100
+  EnemyVelocity: {x: 3, y: 6}
+  TargetRange: 5
+  FireColor: {r: 0.7372549, g: 0.6571553, b: 0.14509805, a: 1}
+  WaterColor: {r: 0.12163278, g: 0.58975047, b: 0.9433962, a: 1}
+  GrassColor: {r: 0.15686275, g: 0.67058825, b: 0.15845992, a: 1}
+  FireBG: {r: 0.122641504, g: 0.08988471, b: 0, a: 1}
+  WaterBG: {r: 0, g: 0.09489457, b: 0.1792453, a: 1}
+  GrassBG: {r: 0, g: 0.122641504, b: 0.04088049, a: 1}
+  Merge1: 20
+  Merge2: 50
+  Merge3: 100
+  Combo1: 500
+  Combo2: 1000
+  Combo3: 3000
